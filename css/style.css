@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+}
+.navbar{
+  background-color: #ffa31a;
+  display: flex;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.navbar-logo{
+  height: 60px;
+  margin: 5px;
+}
+
+.nav-item{
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 25px;
+  background-color: white;
+  padding: 5px;
+  border-radius: 15px;
+  width: 100px;
+  text-align: center;
+}
